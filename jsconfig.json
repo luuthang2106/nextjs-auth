@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "app/mysql": [
+                "mysql/index.js"
+            ],
+            "app/auth": [
+                "auth/index.js"
+            ]
+        }
+    }
+}
